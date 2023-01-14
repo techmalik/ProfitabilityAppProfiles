@@ -6,7 +6,7 @@ To run this project, you will need to have Jupyter notebook installed on your ma
 
 You will also need to download the dataset for this project. The dataset can be found [here](https://www.kaggle.com/lava18/google-play-store-apps) for Google Play market and [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) for App Store market.
 
-Once you have Jupyter notebook and the dataset, you can open the notebook Profitable App Profiles.ipynb and run the code to replicate the analysis.
+Once you have Jupyter notebook and the dataset, you can open the notebook Apps Analysis.ipynb and run the code to replicate the analysis.
 
 ## Conclusion
 By analyzing the data, the project aims to help developers identify the types of apps that are likely to be successful in the App Store and Google Play markets. The results of the analysis can be used to inform app development decisions, such as the choice of app genre, pricing, and features.
