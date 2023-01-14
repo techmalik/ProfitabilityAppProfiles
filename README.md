@@ -4,7 +4,7 @@ The goal of this project is to analyze data to help developers understand what t
 ## Getting Started
 To run this project, you will need to have Jupyter notebook installed on your machine. You can download Jupyter notebook [here](https://jupyter.org/install).
 
-You will also need to download the dataset for this project. The dataset can be found [here](https://www.kaggle.com/lava18/google-play-store-apps) for Google Play market and [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) for App Store market.
+You may need an updated dataset for this project. The dataset can be found [here](https://www.kaggle.com/lava18/google-play-store-apps) for Google Play market and [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) for App Store market.
 
 Once you have Jupyter notebook and the dataset, you can open the notebook Apps Analysis.ipynb and run the code to replicate the analysis.
 
